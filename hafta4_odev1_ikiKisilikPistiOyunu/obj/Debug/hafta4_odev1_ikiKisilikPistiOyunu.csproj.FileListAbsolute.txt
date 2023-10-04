@@ -1,0 +1,8 @@
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta4_odev1_ikiKisilikPistiOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_ikiKisilikPistiOyunu\bin\Debug\hafta4_odev1_ikiKisilikPistiOyunu.exe.config
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta4_odev1_ikiKisilikPistiOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_ikiKisilikPistiOyunu\bin\Debug\hafta4_odev1_ikiKisilikPistiOyunu.exe
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta4_odev1_ikiKisilikPistiOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_ikiKisilikPistiOyunu\bin\Debug\hafta4_odev1_ikiKisilikPistiOyunu.pdb
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta4_odev1_ikiKisilikPistiOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_ikiKisilikPistiOyunu\obj\Debug\hafta4_odev1_ikiKisilikPistiOyunu.csproj.AssemblyReference.cache
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta4_odev1_ikiKisilikPistiOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_ikiKisilikPistiOyunu\obj\Debug\hafta4_odev1_ikiKisilikPistiOyunu.csproj.SuggestedBindingRedirects.cache
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta4_odev1_ikiKisilikPistiOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_ikiKisilikPistiOyunu\obj\Debug\hafta4_odev1_ikiKisilikPistiOyunu.csproj.CoreCompileInputs.cache
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta4_odev1_ikiKisilikPistiOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_ikiKisilikPistiOyunu\obj\Debug\hafta4_odev1_ikiKisilikPistiOyunu.exe
+E:\ceng\C#\Bilgisayar Programlama 2\0.Works\1. Ödevler\hafta4_odev1_ikiKisilikPistiOyunu - 221030210011 - Sadi Enis GÜÇLÜER\hafta4_odev1_ikiKisilikPistiOyunu\obj\Debug\hafta4_odev1_ikiKisilikPistiOyunu.pdb
